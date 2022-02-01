@@ -15,9 +15,6 @@ The data for this project is a collection of SMS messages from mobile phones mad
 
 For this project, the file has been downloaded and is named `SMSSpamCollection`.
 
-## Naive Bayes
-
-One of the major advantages of Naive Bayes over other classification algorithms is its ability to handle an extremely large number of features without loss of time during the model building. This will come in handy here as every word in this dataset will be treated as a feature by our algorithm. Naive Bayes is also easy to implement, and can perform optimally without any parameter tuning.
 
 ## Requirements
 The following packages were required for this project:
